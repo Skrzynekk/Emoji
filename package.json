@@ -1,0 +1,21 @@
+{
+  "name": "owca",
+  "version": "1.0.0",
+  "description": "\"SIEMA ELO",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Hubert",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "iquery": "0.0.2",
+    "popper.js": "^1.15.0"
+  }
+}
